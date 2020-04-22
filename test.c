@@ -1,2 +1,2 @@
-git is good
+git is bad
 this is a test code
